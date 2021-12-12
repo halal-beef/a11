@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_WSP_sprout.mk
+    $(LOCAL_DIR)/twrp_WSP_sprout.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_WSP_sprout-user \
-    omni_WSP_sprout-userdebug \
-    omni_WSP_sprout-eng
+    twrp_WSP_sprout-user \
+    twrp_WSP_sprout-userdebug \
+    twrp_WSP_sprout-eng
