@@ -18,7 +18,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := WSP_sprout
-PRODUCT_NAME := omni_WSP_sprout
+PRODUCT_NAME := twrp_WSP_sprout
 PRODUCT_BRAND := Nokia
 PRODUCT_MODEL := Nokia 2.2
 PRODUCT_MANUFACTURER := hmd
